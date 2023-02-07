@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Keldos' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Keldos-Li&show_icons=true&bg_color=60,163E99,904e95&icon_color=24A6F2&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Keldos' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Keldos-Li&show_icons=true&bg_color=60,163E99,904e95&icon_color=24A6F2&title_color=fff&text_color=fff)](https://github.com/Keldos-Li)
 
 <!--
 **Keldos-Li/Keldos-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
