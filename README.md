@@ -36,14 +36,14 @@
 ### 我在哪里 📞 
 - **个人网站**：[Keldos.me](https://keldos.me)
 - **个人博客**：[blog.keldos.me](https://blog.keldos.me)
-- **Telegram频道**：[Keldos?](https://t.me/+ZT9ZDZ-KZBs0ZGI1)
+- **Telegram频道**：[Keldos?](https://t.me/keldosme)
 - **Bilibili**：[Keldos](https://space.bilibili.com/272863376)
 - <details><summary><strong>微信公众号</strong>：<a href="http://weixin.qq.com/r/yBLL0wDEY10crUSw90fa">Keldos</a></summary><img src="https://github.com/Keldos-Li/Keldos-Li/assets/23137268/6fc127bd-ea34-42a7-b502-848543bb6477" /></details>
 
 ### 给我个工作！
 虽然我是啥啥不会的小垃圾，但我还是痴心妄想有人能给我个互联网相关的工作QAQ！
 
-欢迎给我发邮件👈🏻~
+欢迎给我发邮件！👈🏻
 
 ---
 
@@ -86,14 +86,14 @@ Hey! Can't believe you saw this. I'm **[Keldos](https://keldos.me)**, let's make
 ### Find Me 📞 
 - **Personal Website**：[Keldos.me](https://keldos.me)
 - **Personal Blog**：[blog.keldos.me](https://blog.keldos.me)
-- **Telegram Channel**：[Keldos?](https://t.me/+ZT9ZDZ-KZBs0ZGI1)
+- **Telegram Channel**：[Keldos?](https://t.me/keldosme)
 - **Bilibili**：[Keldos](https://space.bilibili.com/272863376)
 - <details><summary><strong>WeChat Official Account</strong>：<a href="http://weixin.qq.com/r/yBLL0wDEY10crUSw90fa">Keldos</a></summary><img src="https://github.com/Keldos-Li/Keldos-Li/assets/23137268/6fc127bd-ea34-42a7-b502-848543bb6477" /></details>
 
 ### Give Me a Job!
-Although I am a little trash, I still wishful thinking that someone can give me an Internet-related job QAQ!
-
-Welcome to email me 👈🏻!
+Although I am just a little trash, I'm still hopefully thinking that someone can give me a job related to the internet QAQ!
+  
+Welcome to send me an email! 👈🏻
 
 <!--
 Here are some ideas to get you started:
