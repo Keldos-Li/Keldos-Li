@@ -2,8 +2,7 @@
 
 嘿！你竟然看到了这里，我是 **[Keldos](https://keldos.me)**，交个朋友吧~ (/ω＼)
 
-- 会一点点点前端！<br />
-  但是是什么都不会的小垃圾~
+- 略懂点前端！<br />
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=fff)
   ![Sass](https://img.shields.io/badge/-Sass-cc6699?logo=sass&logoColor=fff)
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=fff)
@@ -13,7 +12,7 @@
   ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=fff)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=fff) <br />
 - [浙江大学](https://www.zju.edu.cn) [建筑工程学院](http://www.ccea.zju.edu.cn/main.htm) 本科在读~
-- 我的专业是 _城乡规划_，所以开发啥也不会很合理吧(´・ω・`)
+- 我的专业是 _城乡规划_，所以后端方面是个小垃圾很合理吧 (´・ω・`)
 
 [![Keldos' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Keldos-Li&show_icons=true&bg_color=60,163E99,904e95&icon_color=24A6F2&title_color=fff&text_color=fff)](https://keldos.me)
 
@@ -23,7 +22,7 @@
   <a href="https://github.com/Keldos-Li/typora-latex-theme/stargazers">![GitHub Repo stars](https://img.shields.io/github/stars/Keldos-Li/typora-latex-theme?style=flat&logo=github&color=yellow)</a><br />
   作者 维护者<br />
 - **[川虎 Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT)**
-  <a href="https://github.com/GaiZhenbiao/ChuanhuChatGPT/stargazers">![GitHub Repo stars](https://img.shields.io/github/stars/GaiZhenbiao/ChuanhuChatGPT?style=flat&logo=github&color=yellow)</a><br />
+  <a href="https://github.com/GaiZhenbiao/ChuanhuChatGPT/stargazers">![GitHub Repo stars](https://img.shields.io/github/stars/GaiZhenbiao/ChuanhuChatGPT?style=flat&logo=github&color=green)</a><br />
   协作者 ~~打工人~~<br />
 
 ### 主要领域 🧬 
@@ -40,8 +39,15 @@
 - **Bilibili**：[Keldos](https://space.bilibili.com/272863376)
 - <details><summary><strong>微信公众号</strong>：<a href="http://weixin.qq.com/r/yBLL0wDEY10crUSw90fa">Keldos</a></summary><img src="https://github.com/Keldos-Li/Keldos-Li/assets/23137268/6fc127bd-ea34-42a7-b502-848543bb6477" /></details>
 
+### 接个私活
+- UI/原型设计
+- 图标设计
+- ~~其他我可能会的东西~~
+
+可以给我发邮件！👈🏻
+
 ### 给我个工作！
-虽然我是啥啥不会的小垃圾，但我还是痴心妄想有人能给我个互联网相关的工作QAQ！
+虽然我是啥啥不会的小垃圾，但我还是痴心妄想有人能给我个互联网相关的工作（或者实习）QAQ！
 
 欢迎给我发邮件！👈🏻
 
@@ -53,8 +59,7 @@
 
 Hey! Can't believe you saw this. I'm **[Keldos](https://keldos.me)**, let's make friends ~ (/ω＼)
 
-- I know a little bit of front-end! <br /> 
-  But I can't do anything but rubbish~
+- I know a little bit about front-end! <br /> 
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=fff)
   ![Sass](https://img.shields.io/badge/-Sass-cc6699?logo=sass&logoColor=fff)
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=fff)
@@ -72,8 +77,8 @@ Hey! Can't believe you saw this. I'm **[Keldos](https://keldos.me)**, let's make
   <a href="https://github.com/Keldos-Li/typora-latex-theme/releases">![GitHub downloads](https://img.shields.io/github/downloads/Keldos-Li/typora-latex-theme/total?logo=markdown)</a>
   <a href="https://github.com/Keldos-Li/typora-latex-theme/stargazers">![GitHub Repo stars](https://img.shields.io/github/stars/Keldos-Li/typora-latex-theme?style=flat&logo=github&color=yellow)</a><br />
   Author, Maintainer<br />
-- **[川虎 Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT)**
-  <a href="https://github.com/GaiZhenbiao/ChuanhuChatGPT/stargazers">![GitHub Repo stars](https://img.shields.io/github/stars/GaiZhenbiao/ChuanhuChatGPT?style=flat&logo=github&color=yellow)</a><br />
+- **[Chuanhu Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT)**
+  <a href="https://github.com/GaiZhenbiao/ChuanhuChatGPT/stargazers">![GitHub Repo stars](https://img.shields.io/github/stars/GaiZhenbiao/ChuanhuChatGPT?style=flat&logo=github&color=green)</a><br />
   Collaborator, ~~Worker~~<br />
 
 ### Major Areas 🧬 
@@ -89,6 +94,11 @@ Hey! Can't believe you saw this. I'm **[Keldos](https://keldos.me)**, let's make
 - **Telegram Channel**：[Keldos?](https://t.me/keldosme)
 - **Bilibili**：[Keldos](https://space.bilibili.com/272863376)
 - <details><summary><strong>WeChat Official Account</strong>：<a href="http://weixin.qq.com/r/yBLL0wDEY10crUSw90fa">Keldos</a></summary><img src="https://github.com/Keldos-Li/Keldos-Li/assets/23137268/6fc127bd-ea34-42a7-b502-848543bb6477" /></details>
+
+### Taking Private Job
+- UI/Prototype Design
+- Icon Design
+- ~~Other things I may be capable of~~
 
 ### Give Me a Job!
 Although I am just a little trash, I'm still hopefully thinking that someone can give me a job related to the internet QAQ!
