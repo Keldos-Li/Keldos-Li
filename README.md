@@ -1,12 +1,70 @@
+<details><summary><h2>Or you may want an English version:</h2></summary>
+  
 ### Hi there 👋
 
-嘿！你竟然看到了这里，我是 **[Keldos](https://keldos.me)**，交个朋友吧~ (/ω＼)
+Hey! Can't believe you saw this. I'm **[Keldos](https://keldos.me)**, let's make friends ~ (/ω＼)
 
-- 略懂点前端！<br />
+- I know a little bit about front-end! But I prefer to see myself as a designer, for product, interface, interaction, blahblah...<br /> 
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=fff)
   ![Sass](https://img.shields.io/badge/-Sass-cc6699?logo=sass&logoColor=fff)
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=fff)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) 
+  ![git](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=fff)  
+  ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=fff)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=fff) <br />
+- Undergraduate student in [Urban and Rural Planning](http://www.ccea.zju.edu.cn/cceaenglish/main.psp) from [Zhejiang University](https://www.zju.edu.cn/english/)
+
+[![Keldos' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Keldos-Li&show_icons=true&bg_color=60,163E99,904e95&icon_color=24A6F2&title_color=fff&text_color=fff)](https://keldos.me)
+
+### Major Projects 🗃️ 
+- **[Typora-Latex-Theme](https://github.com/Keldos-Li/typora-latex-theme)**
+  <a href="https://github.com/Keldos-Li/typora-latex-theme/releases">![GitHub downloads](https://img.shields.io/github/downloads/Keldos-Li/typora-latex-theme/total?logo=markdown)</a>
+  <a href="https://github.com/Keldos-Li/typora-latex-theme/stargazers">![GitHub Repo stars](https://img.shields.io/github/stars/Keldos-Li/typora-latex-theme?style=flat&logo=github&color=yellow)</a><br />
+  Author, Maintainer<br />
+- **[Chuanhu Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT)**
+  <a href="https://github.com/GaiZhenbiao/ChuanhuChatGPT/stargazers">![GitHub Repo stars](https://img.shields.io/github/stars/GaiZhenbiao/ChuanhuChatGPT?style=flat&logo=github&color=green)</a><br />
+  Collaborator, ~~Worker~~<br />
+
+### Major Areas 🧬 
+- 🎶 **Music**: Arrangement, Mixing, Guitarist; _[Keldos](https://open.spotify.com/artist/15tZx1rVra48wwBiWLYkrT)_ on Spotify
+- 🫥 **Visual Design**: UI/UX, Graphic Design, Typography
+- 🎨 **Traditional Art**: Chinese Painting, Sketch, Gouache, Watercolor (_Zhejiang Province Art Proficiency Test Western Painting Grade A_)
+- 🔦 **Professional Design**: Architectural Design, Constructive Detailed Planning Design, Overall Urban Planning Design
+- 📚 **Professional Knowledge**：Urban Planning, Regional Planning, Territorial Spatial Planning, Economic Geography
+
+### Find Me 📞 
+- **Personal Website**：[Keldos.me](https://keldos.me)
+- **Personal Blog**：[blog.keldos.me](https://blog.keldos.me)
+- **Telegram Channel**：[Keldos?](https://t.me/keldosme)
+- **Bilibili**：[Keldos](https://space.bilibili.com/272863376)
+- <details><summary><strong>WeChat Official Account</strong>：<a href="http://weixin.qq.com/r/yBLL0wDEY10crUSw90fa">Keldos</a></summary><img src="https://github.com/Keldos-Li/Keldos-Li/assets/23137268/6fc127bd-ea34-42a7-b502-848543bb6477" /></details>
+
+### Taking Private Job
+- UI/Prototype Design
+- Icon Design
+- ~~Other things I may be capable of~~
+
+### Give Me a Job!
+Although I am just a little trash, I'm still hopefully thinking that someone can give me a job related to the internet QAQ!
+  
+Welcome to send me an email! 👈🏻
+
+---
+
+</details>
+
+### Hi there 👋
+
+嘿！你竟然看到了这里，我是 **[Keldos](https://keldos.me)**，交个朋友吧~ (/ω＼)
+
+- 略懂点前端！不过我更愿意把自己看做设计师，产品、界面、交互设计，blahblah…<br />
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=fff)
+  ![Sass](https://img.shields.io/badge/-Sass-cc6699?logo=sass&logoColor=fff)
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=fff)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) 
   ![git](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=fff)  
   ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=fff)
@@ -50,60 +108,6 @@
 虽然我是啥啥不会的小垃圾，但我还是痴心妄想有人能给我个互联网相关的工作（或者实习）QAQ！
 
 欢迎给我发邮件！👈🏻
-
----
-
-<details><summary><h2>Or you may want an English version:</h2></summary>
-  
-### Hi there 👋
-
-Hey! Can't believe you saw this. I'm **[Keldos](https://keldos.me)**, let's make friends ~ (/ω＼)
-
-- I know a little bit about front-end! <br /> 
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=fff)
-  ![Sass](https://img.shields.io/badge/-Sass-cc6699?logo=sass&logoColor=fff)
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=fff)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) 
-  ![git](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=fff)  
-  ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=fff)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=fff) <br />
-- Undergraduate student in [Urban and Rural Planning](http://www.ccea.zju.edu.cn/cceaenglish/main.psp) from [Zhejiang University](https://www.zju.edu.cn/english/)
-
-[![Keldos' GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Keldos-Li&show_icons=true&bg_color=60,163E99,904e95&icon_color=24A6F2&title_color=fff&text_color=fff)](https://keldos.me)
-
-### Major Projects 🗃️ 
-- **[Typora-Latex-Theme](https://github.com/Keldos-Li/typora-latex-theme)**
-  <a href="https://github.com/Keldos-Li/typora-latex-theme/releases">![GitHub downloads](https://img.shields.io/github/downloads/Keldos-Li/typora-latex-theme/total?logo=markdown)</a>
-  <a href="https://github.com/Keldos-Li/typora-latex-theme/stargazers">![GitHub Repo stars](https://img.shields.io/github/stars/Keldos-Li/typora-latex-theme?style=flat&logo=github&color=yellow)</a><br />
-  Author, Maintainer<br />
-- **[Chuanhu Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT)**
-  <a href="https://github.com/GaiZhenbiao/ChuanhuChatGPT/stargazers">![GitHub Repo stars](https://img.shields.io/github/stars/GaiZhenbiao/ChuanhuChatGPT?style=flat&logo=github&color=green)</a><br />
-  Collaborator, ~~Worker~~<br />
-
-### Major Areas 🧬 
-- 🎶 **Music**: Arrangement, Mixing, Guitarist; _[Keldos](https://open.spotify.com/artist/15tZx1rVra48wwBiWLYkrT)_ on Spotify
-- 🫥 **Visual Design**: UI/UX, Graphic Design, Typography
-- 🎨 **Traditional Art**: Chinese Painting, Sketch, Gouache, Watercolor (_Zhejiang Province Art Proficiency Test Western Painting Grade A_)
-- 🔦 **Professional Design**: Architectural Design, Constructive Detailed Planning Design, Overall Urban Planning Design
-- 📚 **Professional Knowledge**：Urban Planning, Regional Planning, Territorial Spatial Planning, Economic Geography
-
-### Find Me 📞 
-- **Personal Website**：[Keldos.me](https://keldos.me)
-- **Personal Blog**：[blog.keldos.me](https://blog.keldos.me)
-- **Telegram Channel**：[Keldos?](https://t.me/keldosme)
-- **Bilibili**：[Keldos](https://space.bilibili.com/272863376)
-- <details><summary><strong>WeChat Official Account</strong>：<a href="http://weixin.qq.com/r/yBLL0wDEY10crUSw90fa">Keldos</a></summary><img src="https://github.com/Keldos-Li/Keldos-Li/assets/23137268/6fc127bd-ea34-42a7-b502-848543bb6477" /></details>
-
-### Taking Private Job
-- UI/Prototype Design
-- Icon Design
-- ~~Other things I may be capable of~~
-
-### Give Me a Job!
-Although I am just a little trash, I'm still hopefully thinking that someone can give me a job related to the internet QAQ!
-  
-Welcome to send me an email! 👈🏻
 
 <!--
 Here are some ideas to get you started:
