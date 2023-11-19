@@ -39,7 +39,7 @@ Hey! Can't believe you saw this. I'm **[Keldos](https://keldos.me)**, let's make
 - **Personal Blog**：[blog.keldos.me](https://blog.keldos.me)
 - **Telegram Channel**：[Keldos?](https://t.me/keldosme)
 - **Bilibili**：[Keldos](https://space.bilibili.com/272863376)
-- <details><summary><strong>WeChat Official Account</strong>：<a href="http://weixin.qq.com/r/yBLL0wDEY10crUSw90fa">Keldos</a></summary><img src="https://github.com/Keldos-Li/Keldos-Li/assets/23137268/6fc127bd-ea34-42a7-b502-848543bb6477" /></details>
+- <details><summary><strong>WeChat Official Account</strong>：<a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyMzM4NDA5NA==&scene=124#wechat_redirect">Keldos</a></summary><img src="https://github.com/Keldos-Li/Keldos-Li/assets/23137268/6fc127bd-ea34-42a7-b502-848543bb6477" /></details>
 
 ### Taking Private Job
 - UI/Prototype Design
@@ -95,7 +95,7 @@ Welcome to send me an email! 👈🏻
 - **个人博客**：[blog.keldos.me](https://blog.keldos.me)
 - **Telegram频道**：[Keldos?](https://t.me/keldosme)
 - **Bilibili**：[Keldos](https://space.bilibili.com/272863376)
-- <details><summary><strong>微信公众号</strong>：<a href="http://weixin.qq.com/r/yBLL0wDEY10crUSw90fa">Keldos</a></summary><img src="https://github.com/Keldos-Li/Keldos-Li/assets/23137268/6fc127bd-ea34-42a7-b502-848543bb6477" /></details>
+- <details><summary><strong>微信公众号</strong>：<a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyMzM4NDA5NA==&scene=124#wechat_redirect">Keldos</a></summary><img src="https://github.com/Keldos-Li/Keldos-Li/assets/23137268/6fc127bd-ea34-42a7-b502-848543bb6477" /></details>
 
 ### 接个私活
 - UI/原型设计
