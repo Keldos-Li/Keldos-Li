@@ -31,8 +31,8 @@ Hey! Can't believe you saw this. I'm **[Keldos](https://keldos.me)**, let's make
 - 🎶 **Music**: Arrangement, Mixing, Guitarist; _[Keldos](https://open.spotify.com/artist/15tZx1rVra48wwBiWLYkrT)_ on Spotify
 - 🫥 **Visual Design**: UI/UX, Graphic Design, Typography
 - 🎨 **Traditional Art**: Chinese Painting, Sketch, Gouache, Watercolor (_Zhejiang Province Art Proficiency Test Western Painting Grade A_)
-- 🔦 **Professional Design**: Architectural Design, Constructive Detailed Planning Design, Overall Urban Planning Design
-- 📚 **Professional Knowledge**：Urban Planning, Regional Planning, Territorial Spatial Planning, Economic Geography
+- 🔦 **Professional Design**: Architectural Design, Urban Design, Constructive Detailed Planning Design, Overall Urban Planning Design, Landscape Planning Design, Rural Planning, Regulatory Detailed Planning, Urban Municipal Engineering System Planning
+- 📚 **Professional Knowledge**：Urban Planning, Regional Planning, Territorial Spatial Planning, Urban Road and Transportation Planning, Urban Planning Management and Regulations, Economic Geography, Urban Sociology, Housing Architecture
 
 ### Find Me 📞 
 - **Personal Website**：[Keldos.me](https://keldos.me)
@@ -87,8 +87,8 @@ Welcome to send me an email! 👈🏻
 - 🎶 **音乐演奏**：编曲，混音，吉他手；网易云音乐人 _[Keldos](https://music.163.com/#/artist?id=37459738)_，Spotify _[Keldos](https://open.spotify.com/artist/15tZx1rVra48wwBiWLYkrT)_
 - 🫥 **视觉设计**：UI/UX, 平面设计, 字体排印
 - 🎨 **传统美术**：中国画，素描，水粉，水彩 （_浙江省艺术特长生水平测试 西画 A级_）
-- 🔦 **专业设计**：建筑设计，修建性详细规划设计，城镇总体规划设计
-- 📚 **专业知识**：城市规划，区域规划，国土空间规划，经济地理学
+- 🔦 **专业设计**：建筑设计，城市设计，修建性详细规划设计，城镇总体规划设计，景观规划设计，乡村规划，控制性详细规划，城市市政工程系统规划
+- 📚 **专业知识**：城市规划，区域规划，国土空间规划，城市道路与交通规划，城市规划管理与法规，经济地理学，城市社会学，房屋建筑学
 
 ### 我在哪里 📞 
 - **个人网站**：[Keldos.me](https://keldos.me)
