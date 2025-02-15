@@ -1,6 +1,6 @@
 Icons designed/drew by me
 
-## macOS Icon
+## macOS APP Icon
 
 | Project | Icon | Description | Time |
 | ------- | ---- | ----------- | ---- |
