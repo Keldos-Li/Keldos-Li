@@ -43,7 +43,7 @@ Hey! Can't believe you saw this. I'm **[Keldos](https://keldos.me)**, let's make
 
 ### Taking Private Job
 - UI/Prototype Design
-- Icon Design
+- Icon Design (Check [My Works](https://github.com/Keldos-Li/Keldos-Li/blob/main/Icon_Design.md))
 - ~~Other things I may be capable of~~
 
 ### Give Me a Job!
@@ -99,7 +99,7 @@ Welcome to send me an email! 👈🏻
 
 ### 接个私活
 - UI/原型设计
-- 图标设计
+- 图标设计 （看看[我的设计](https://github.com/Keldos-Li/Keldos-Li/blob/main/Icon_Design.md)）
 - ~~其他我可能会的东西~~
 
 可以给我发邮件！👈🏻
