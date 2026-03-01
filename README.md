@@ -35,7 +35,6 @@ Hey! Can't believe you saw this. I'm **[Keldos](https://keldos.me)**, let's make
 - 📚 **Professional Knowledge**：Urban Planning, Regional Planning, Territorial Spatial Planning, Urban Road and Transportation Planning, Urban Planning Management and Regulations, Economic Geography, Urban Sociology, Housing Architecture
 
 ### Find Me 📞 
-- **Personal Website**：[Keldos.me](https://keldos.me)
 - **Personal Blog**：[blog.keldos.me](https://blog.keldos.me)
 - **Telegram Channel**：[Keldos?](https://t.me/keldosme)
 - **Bilibili**：[Keldos](https://space.bilibili.com/272863376)
@@ -91,7 +90,6 @@ Welcome to send me an email! 👈🏻
 - 📚 **专业知识**：城市规划，区域规划，国土空间规划，城市道路与交通规划，城市规划管理与法规，经济地理学，城市社会学，房屋建筑学
 
 ### 我在哪里 📞 
-- **个人网站**：[Keldos.me](https://keldos.me)
 - **个人博客**：[blog.keldos.me](https://blog.keldos.me)
 - **Telegram频道**：[Keldos?](https://t.me/keldosme)
 - **Bilibili**：[Keldos](https://space.bilibili.com/272863376)
