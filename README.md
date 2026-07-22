@@ -16,7 +16,7 @@ Hey! Can't believe you saw this. I'm **[Keldos](https://keldos.me)**, let's make
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=fff) <br />
 - Studying in [Urban and Rural Planning](http://www.ccea.zju.edu.cn/cceaenglish/main.psp) from [Zhejiang University](https://www.zju.edu.cn/english/)
 
-[![Keldos' GitHub stats](https://github-readme-stats.vercel.app/api?username=Keldos-Li&show_icons=true&bg_color=60,163E99,904e95&icon_color=24A6F2&title_color=fff&text_color=fff)](https://keldos.me)
+[![Keldos' GitHub stats](https://github-stats-extended.vercel.app/api?username=Keldos-Li&show_icons=true&bg_color=60,163E99,904e95&icon_color=24A6F2&title_color=fff&text_color=fff)](https://keldos.me)
 
 ### Major Projects 🗃️ 
 - **[Typora-Latex-Theme](https://github.com/Keldos-Li/typora-latex-theme)**
@@ -71,7 +71,7 @@ Welcome to send me an email! 👈🏻
 - [浙江大学](https://www.zju.edu.cn) [建筑工程学院](http://www.ccea.zju.edu.cn/main.htm) 在读~
 - 我的专业是 _城乡规划_，所以后端方面是个小垃圾很合理吧 (´・ω・`)
 
-[![Keldos' GitHub stats](https://github-readme-stats.vercel.app/api?username=Keldos-Li&show_icons=true&bg_color=60,163E99,904e95&icon_color=24A6F2&title_color=fff&text_color=fff)](https://keldos.me)
+[![Keldos' GitHub stats](https://github-stats-extended.vercel.app/api?username=Keldos-Li&show_icons=true&bg_color=60,163E99,904e95&icon_color=24A6F2&title_color=fff&text_color=fff)](https://keldos.me)
 
 ### 主要项目 🗃️ 
 - **[Typora-Latex-Theme](https://github.com/Keldos-Li/typora-latex-theme)**
