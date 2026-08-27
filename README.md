@@ -52,7 +52,6 @@ Hi, I'm **[Keldos](https://keldos.me)**.
 
 - **Online Resume**: [keldos.me/resume](https://keldos.me/resume)
 - **Personal Blog**: [blog.keldos.me](https://blog.keldos.me)
-- **Telegram Channel**: [Keldos?](https://t.me/keldosme)
 - **Bilibili**: [Keldos](https://space.bilibili.com/272863376)
 - <details><summary><strong>WeChat Official Account</strong>: <a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyMzM4NDA5NA==&scene=124#wechat_redirect">Keldos</a></summary><img src="https://github.com/Keldos-Li/Keldos-Li/assets/23137268/6fc127bd-ea34-42a7-b502-848543bb6477" /></details>
 
@@ -68,7 +67,7 @@ I'm currently looking for an internship in product, AI applications, UI/interact
 
 你好，我是 **[Keldos](https://keldos.me)**。
 
-- 懂点前端，也做产品、UI 和交互，通常会从需求和原型一直参与到开发落地。<br />
+- 懂点前端！也做产品、UI 和交互，或许可以从需求和原型一直参与到开发落地。<br />
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=fff)
   ![Sass](https://img.shields.io/badge/-Sass-cc6699?logo=sass&logoColor=fff)
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=fff)
@@ -100,8 +99,8 @@ I'm currently looking for an internship in product, AI applications, UI/interact
 
 ### 其他项目与贡献 🧰
 
-- **[ChuanhuWallpaper 川虎壁纸](https://github.com/GaiZhenbiao/ChuanhuWallpaper)**：macOS 动态壁纸生成器。我负责 App Icon 与 UI/UX，也参与了问题修复。
-- **[Easydict](https://github.com/tisfeng/Easydict)**：macOS 词典翻译应用。我参与了几轮 App 图标重绘和 macOS 风格适配。
+- **[ChuanhuWallpaper 川虎壁纸](https://github.com/GaiZhenbiao/ChuanhuWallpaper)**：macOS 动态壁纸生成器。我负责 App Icon 与 UI/UX。
+- **[Easydict](https://github.com/tisfeng/Easydict)**：macOS 词典翻译应用。我制作了 App 图标。
 - **[GPT Academic](https://github.com/binary-husky/gpt_academic)**：面向大模型的学术工具集。我参与了聊天与 Markdown 样式、拖拽上传文件、Mermaid 暗色模式和其他界面改进。
 - **[Gradio](https://github.com/gradio-app/gradio)**：参与过部分 UI 修复。
 
@@ -116,7 +115,6 @@ I'm currently looking for an internship in product, AI applications, UI/interact
 
 - **在线简历**：[keldos.me/resume](https://keldos.me/resume)
 - **个人博客**：[blog.keldos.me](https://blog.keldos.me)
-- **Telegram 频道**：[Keldos?](https://t.me/keldosme)
 - **Bilibili**：[Keldos](https://space.bilibili.com/272863376)
 - <details><summary><strong>微信公众号</strong>：<a href="https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyMzM4NDA5NA==&scene=124#wechat_redirect">Keldos</a></summary><img src="https://github.com/Keldos-Li/Keldos-Li/assets/23137268/6fc127bd-ea34-42a7-b502-848543bb6477" /></details>
 
